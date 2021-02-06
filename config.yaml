@@ -1,7 +1,7 @@
 title: Stackbit DIY Theme
 baseURL: /
 params:
-  description: A "do it yourself" theme for Stackbit
+  description: 'Home '
   layout_type: boxed
   style: classic
   palette: green
