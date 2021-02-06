@@ -18,7 +18,7 @@ sections:
       - type: action
         template: action
         label: Weekly Menu
-        url: /features
+        url: /menu
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
