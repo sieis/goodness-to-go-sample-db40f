@@ -17,7 +17,7 @@ sections:
         style: primary
       - type: action
         template: action
-        label: Learn More
+        label: Weekly Menu
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
