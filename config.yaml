@@ -17,7 +17,7 @@ params:
     primary_nav_links:
       - type: action
         template: action
-        label: Features
+        label: Menus
         url: /features
         style: link
       - type: action
