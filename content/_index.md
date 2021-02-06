@@ -13,7 +13,7 @@ sections:
         template: action
         label: ORDER ONLINE
         url: >-
-          /https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=d1bb60a1-b01f-4a9d-a1f8-b5895d9a818d
+          https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=d1bb60a1-b01f-4a9d-a1f8-b5895d9a818d
         style: primary
       - type: action
         template: action
