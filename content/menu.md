@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Explore Menus
-    subtitle: Explore our da
+    subtitle: Explore our weekly and catering menus below
     background_color: primary
   - type: features_section
     template: features_section
