@@ -26,6 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    image: /images/People celebrating Thanksgiving-bro.svg
   - type: grid_section
     template: grid_section
     title: Image Grid
