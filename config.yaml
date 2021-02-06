@@ -2,7 +2,7 @@ title: Stackbit DIY Theme
 baseURL: /
 params:
   description: Goodness to Go Sample Site
-  layout_type: boxed
+  layout_type: full-width
   style: classic
   palette: green
   mode: light
