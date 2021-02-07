@@ -256,10 +256,29 @@ sections:
   - type: cta_section
     template: cta_section
     title: Order Online or Call Ahead
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Click the button to order online, or give us a call if you prefer to place
+      your order over the phone. 
+
+
+      Rocky Hill: 
+
+
+      7764 S. Northshore Drive
+
+
+      865-253-7099
+
+
+
+
+      Choto
+
+
+      1604 Choto Markets Way
+
+
+      865-671-1315
     actions:
       - type: action
         template: action
