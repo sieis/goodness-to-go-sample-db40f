@@ -50,7 +50,7 @@ sections:
   grid_items:
   - type: grid_item
     template: grid_item
-    title: Section Item 1
+    title: Weekly Menu
     title_align: left
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
       cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
