@@ -153,13 +153,12 @@ sections:
       - type: feature
         template: feature
         title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
+          Out of great concern for our customers and employees over the spread of COVID-19 we will require masks to enter the building.
+        subtitle: We will provide a Sanitization Station outside the front doors for your convenience and safety.
+        image: images/foodtray.png
+        image_alt: food tray
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
