@@ -45,8 +45,8 @@ sections:
   background_image_repeat: ''
 - type: grid_section
   template: grid_section
-  title: Cards Grid Section
-  subtitle: Grid Section Example
+  title: Order Now
+  subtitle: Browse our menu, and order at any time
   grid_items:
   - type: grid_item
     template: grid_item
