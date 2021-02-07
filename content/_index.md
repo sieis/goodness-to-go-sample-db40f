@@ -146,8 +146,8 @@ sections:
   background_image_repeat: ''
 - type: grid_section
   template: grid_section
-  title: Reviews Section
-  subtitle: Grid Section Example
+  title: Reviews
+  subtitle: Hear from our satisfied customers!
   grid_items:
   - type: grid_item
     template: grid_item
