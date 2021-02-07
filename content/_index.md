@@ -134,7 +134,7 @@ sections:
   grid_gap_horiz: medium
   enable_cards: true
   align: center
-  background_color: none
+  background_color: secondary
   actions: []
   padding_top: ''
   padding_bottom: ''
