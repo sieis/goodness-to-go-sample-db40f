@@ -77,7 +77,7 @@ sections:
     image_width: ''
   - type: grid_item
     template: grid_item
-    title: Section Item 2
+    title: Catering Menu
     title_align: left
     content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
       quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
