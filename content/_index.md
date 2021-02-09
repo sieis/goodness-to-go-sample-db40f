@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Goodness To Go Here
-    subtitle: Homemade Meals Made Easy
+    subtitle: Deliciously Simple Homemade Meals
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
