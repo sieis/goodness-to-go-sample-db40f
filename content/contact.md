@@ -50,7 +50,7 @@ sections:
           - type: action
             template: action
             label: Order Online
-            url: /general-enquiries
+            url: ''
             style: secondary
             has_icon: true
             icon: arrow-right
