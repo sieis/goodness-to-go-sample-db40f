@@ -158,7 +158,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Another Optional Reviews Section
-    subtitle: Grid Section Example
+    subtitle: Reviews are good; especially if we had some customer pics
     grid_items:
       - type: grid_item
         template: grid_item
