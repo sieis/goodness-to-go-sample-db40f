@@ -6,9 +6,7 @@ sections:
     title: Goodness To Go Here
     subtitle: Deliciously Simple Homemade Meals
     content: |
-      Rocky Hill: 865-253-7099
-
-      Choto Markets: 865-671-1315
+      We look forward to making your mealtime at home a treat for everyone!
     actions:
       - type: action
         template: action
