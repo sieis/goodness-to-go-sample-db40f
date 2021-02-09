@@ -275,7 +275,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: Order Now
         url: /features
         style: secondary
         has_icon: false
