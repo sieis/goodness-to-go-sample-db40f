@@ -86,7 +86,11 @@ sections:
         template: grid_item
         title: Catering Menu
         title_align: left
-        content: >-
+        content: >
+          [Links to Catering Menus
+          ](http://www.goodnesstogocatering.com/catering-menus.html)
+
+
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
