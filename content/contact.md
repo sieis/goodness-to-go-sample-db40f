@@ -50,7 +50,8 @@ sections:
           - type: action
             template: action
             label: Order Online
-            url: ''
+            url: >-
+              https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=d1bb60a1-b01f-4a9d-a1f8-b5895d9a818d
             style: secondary
             has_icon: true
             icon: arrow-right
