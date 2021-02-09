@@ -188,7 +188,7 @@ sections:
     grid_gap_vert: large
     grid_gap_horiz: medium
     align: center
-    background_color: secondary
+    background_color: none
   - type: cta_section
     template: cta_section
     title: This is a Call to Action
