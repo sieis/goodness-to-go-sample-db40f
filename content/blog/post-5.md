@@ -1,5 +1,5 @@
 ---
-title: Announcing the Best Cookies in the Universe
+title: The Best Sweets in Tennessee
 subtitle: Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
 date: 2020-06-02
@@ -12,9 +12,9 @@ tags:
 excerpt: Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae
   parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto.
 thumb_image: "/images/sweets.jpg"
-thumb_image_alt: Post 5 placeholder image
+thumb_image_alt: Tennessee Themed Sweet Treat Platter
 image: "/images/sweets.jpg"
-image_alt: Post 5 placeholder image
+image_alt: Tennessee Themed Sweet Treat Platter
 image_position: right
 layout: post
 
