@@ -59,7 +59,7 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: Get Started
+        label: Order Now
         url: /pricing
         style: primary
         has_icon: false
