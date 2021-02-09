@@ -60,7 +60,7 @@ params:
       - type: action
         template: action
         label: Order Now
-        url: /pricing
+        url: /menu
         style: primary
         has_icon: false
         icon: ''
