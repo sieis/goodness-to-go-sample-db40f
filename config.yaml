@@ -27,16 +27,6 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: Pricing
-        url: /pricing
-        style: link
-        has_icon: false
-        icon: ''
-        icon_position: ''
-        new_window: false
-        no_follow: false
-      - type: action
-        template: action
         label: About
         url: /about
         style: link
