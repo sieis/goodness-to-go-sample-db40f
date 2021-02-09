@@ -1,28 +1,26 @@
 ---
-title: Chicken Pot Pie to Die For
-subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
-date: '2020-05-30'
+title: Stir Fry to Die For
+subtitle: Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus
+  est, hilara vita amissa est.
+date: 2020-05-30
 author: data/team/dianne-ameter.json
 categories:
-  - data/categories/tutorials.json
-  - data/categories/news.json
+- data/categories/tutorials.json
+- data/categories/news.json
 tags:
-  - data/tags/jamstack.json
-  - data/tags/sourcebit.json
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
-thumb_image: images/classic/post-4.png
-thumb_image_alt: Post 4 placeholder image
-image: images/classic/post-4.png
-image_alt: Post 4 placeholder image
+- data/tags/jamstack.json
+- data/tags/sourcebit.json
+excerpt: Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
+  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium
+  consuetudo Latina traduceret.
+thumb_image: "/images/stir-fry.jpg"
+thumb_image_alt: Colorful Stir Fry Vegetables
+image: "/images/stir-fry.jpg"
+image_alt: Colorful Stir Fry Vegetables
 image_position: right
 layout: post
----
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
 
 - Restinguet citius, si ardentem acceperit.
