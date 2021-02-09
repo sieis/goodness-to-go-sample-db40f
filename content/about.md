@@ -83,7 +83,7 @@ sections:
   grid_items:
   - type: grid_item
     template: grid_item
-    title: Some City
+    title: Rocky Hill
     content: 7664 S. Northshore Drive<br>Knoxville, TN 37919<br> [1-865-253-7099 ](tel:+1-865-253-7099)[goodnesstogocatering@gmail.com](mailto:goodnesstogocatering@gmail.com)
     content_align: left
     actions:
