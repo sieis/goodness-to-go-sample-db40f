@@ -40,7 +40,7 @@ sections:
     align: ''
   - type: feature
     template: feature
-    title: Section Title Two
+    title: Choto Markets
     subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
       cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
