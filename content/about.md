@@ -109,6 +109,33 @@ sections:
     image_has_padding: false
   - type: grid_item
     template: grid_item
+    title: Online Ordering
+    content: Order Online for Curbside, Counter or Delivery from either location.
+      [ORDER HERE](https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=d1bb60a1-b01f-4a9d-a1f8-b5895d9a818d)
+    content_align: left
+    actions:
+    - type: action
+      template: action
+      label: Get Directions
+      url: https://goo.gl/maps/eh6fn7JjMS4vYs337
+      style: link
+      has_icon: true
+      icon: arrow-right
+      icon_position: right
+      new_window: false
+      no_follow: false
+    actions_align: left
+    actions_width: auto
+    subtitle: ''
+    title_align: ''
+    image: ''
+    image_alt: ''
+    image_position: ''
+    image_width: ''
+    image_align: ''
+    image_has_padding: false
+  - type: grid_item
+    template: grid_item
     title: Choto Markets
     content: 1604 Choto Markets Way<br/> Knoxville, TN 37922<br/> [1-865-671-1315](tel:1-865-671-1315)<br/>
       [goodnesstogocatering@gmail.com](mailto:goodnesstogocatering@gmail.com)
@@ -123,60 +150,6 @@ sections:
       icon: arrow-right
       icon_position: right
       new_window: true
-      no_follow: false
-    actions_align: left
-    actions_width: auto
-    subtitle: ''
-    title_align: ''
-    image: ''
-    image_alt: ''
-    image_position: ''
-    image_width: ''
-    image_align: ''
-    image_has_padding: false
-  - type: grid_item
-    template: grid_item
-    title: Some City
-    content: 1234 Some St.<br/> Some City, ST 12345<br/> [1-234-556-7890](tel:+12345567890)<br/>
-      [email@example.com](mailto:email@example.com)
-    content_align: left
-    actions:
-    - type: action
-      template: action
-      label: Get Directions
-      url: https://goo.gl/maps/eh6fn7JjMS4vYs337
-      style: link
-      has_icon: true
-      icon: arrow-right
-      icon_position: right
-      new_window: false
-      no_follow: false
-    actions_align: left
-    actions_width: auto
-    subtitle: ''
-    title_align: ''
-    image: ''
-    image_alt: ''
-    image_position: ''
-    image_width: ''
-    image_align: ''
-    image_has_padding: false
-  - type: grid_item
-    template: grid_item
-    title: Some City
-    content: 1234 Some St.<br/> Some City, ST 12345<br/> [1-234-556-7890](tel:+12345567890)<br/>
-      [email@example.com](mailto:email@example.com)
-    content_align: left
-    actions:
-    - type: action
-      template: action
-      label: Get Directions
-      url: https://goo.gl/maps/eh6fn7JjMS4vYs337
-      style: link
-      has_icon: true
-      icon: arrow-right
-      icon_position: right
-      new_window: false
       no_follow: false
     actions_align: left
     actions_width: auto
