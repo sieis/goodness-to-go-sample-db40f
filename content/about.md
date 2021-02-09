@@ -109,7 +109,7 @@ sections:
     image_has_padding: false
   - type: grid_item
     template: grid_item
-    title: Some City
+    title: Choto Markets
     content: 1234 Some St.<br/> Some City, ST 12345<br/> [1-234-556-7890](tel:+12345567890)<br/>
       [email@example.com](mailto:email@example.com)
     content_align: left
@@ -117,12 +117,12 @@ sections:
     - type: action
       template: action
       label: Get Directions
-      url: https://goo.gl/maps/eh6fn7JjMS4vYs337
+      url: https://www.google.com/maps/dir//1604+Choto+Markets+Way,+Knoxville,+TN+37922/@35.8296709,-84.1688448,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x885c296d72bea07f:0xa43ebbbc698a8c8c!2m2!1d-84.1666561!2d35.8296666!3e0
       style: link
       has_icon: true
       icon: arrow-right
       icon_position: right
-      new_window: false
+      new_window: true
       no_follow: false
     actions_align: left
     actions_width: auto
