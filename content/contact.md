@@ -17,7 +17,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Partnering and Sponsorships
+        title: Catering & Events
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
