@@ -53,10 +53,9 @@ sections:
       - type: grid_item
         template: grid_item
         title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          7664 S. Northshort Drive\<br> Knoxville, TN 37922 
+          [1-](tel:+12345567890)865-253-7099 goodnesstogocatering@gmail.com
         content_align: left
         actions:
           - type: action
