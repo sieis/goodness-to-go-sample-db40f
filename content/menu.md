@@ -157,7 +157,7 @@ sections:
     background_color: secondary
   - type: grid_section
     template: grid_section
-    title: Reviews Section
+    title: Another Optional Reviews Section
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
