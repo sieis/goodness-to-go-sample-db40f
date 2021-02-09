@@ -273,7 +273,7 @@ sections:
   grid_gap_vert: large
   grid_gap_horiz: medium
   align: center
-  background_color: secondary
+  background_color: none
   actions: []
   enable_cards: false
   padding_top: ''
