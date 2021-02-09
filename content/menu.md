@@ -51,7 +51,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Optional Cards Section
-    subtitle: Grid Section Example
+    subtitle: We could add more featured items here too
     grid_items:
       - type: grid_item
         template: grid_item
