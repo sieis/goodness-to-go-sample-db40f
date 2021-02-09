@@ -49,7 +49,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Get Support
+            label: Order Online
             url: /general-enquiries
             style: secondary
             has_icon: true
