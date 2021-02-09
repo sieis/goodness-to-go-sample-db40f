@@ -39,7 +39,7 @@ sections:
       - type: feature
         template: feature
         title: Online Menus
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Or link to documents like you do now
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
