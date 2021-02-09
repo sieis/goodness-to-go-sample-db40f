@@ -114,7 +114,7 @@ params:
       - type: action
         template: action
         label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/EamonnCottrell'
         style: link
         has_icon: true
         icon: twitter
