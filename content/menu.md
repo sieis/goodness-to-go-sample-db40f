@@ -50,7 +50,7 @@ sections:
         media_width: fifty
   - type: grid_section
     template: grid_section
-    title: Cards Section
+    title: Optional Cards Section
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
