@@ -23,7 +23,7 @@ sections:
         media_width: fifty
       - type: feature
         template: feature
-        title: Section Title Two
+        title: Catering Menus
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
