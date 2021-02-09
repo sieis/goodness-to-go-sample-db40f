@@ -12,7 +12,7 @@ params:
     template: header
     title: Goodness To Go
     logo: /images/baking-icon.jpg
-    logo_alt: DIY logo
+    logo_alt: Goodness To Go logo
     has_primary_nav: true
     primary_nav_links:
       - type: action
