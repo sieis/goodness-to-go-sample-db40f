@@ -10,7 +10,7 @@ params:
   header:
     type: header
     template: header
-    title: DIY
+    title: Goodness To Go
     logo: /images/baking-icon.jpg
     logo_alt: DIY logo
     has_primary_nav: true
