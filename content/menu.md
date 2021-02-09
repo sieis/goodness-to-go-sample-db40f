@@ -196,7 +196,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Compare Plans
+        label: Order Now
         url: /pricing
         style: primary
     actions_position: right
