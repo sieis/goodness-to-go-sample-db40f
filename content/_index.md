@@ -119,7 +119,11 @@ sections:
         template: grid_item
         title: Online Ordering
         title_align: left
-        content: >-
+        content: >
+          [Link to the FoodBooking Ordering
+          Page](https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=d1bb60a1-b01f-4a9d-a1f8-b5895d9a818d)
+
+
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
