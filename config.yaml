@@ -4,7 +4,7 @@ params:
   description: Goodness to Go Sample Site
   layout_type: full-width
   style: classic
-  palette: red
+  palette: green
   mode: light
   base_font: sans-serif
   header:
