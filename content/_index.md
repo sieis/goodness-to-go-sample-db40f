@@ -54,8 +54,8 @@ sections:
         title: Weekly Menu
         title_align: left
         content: >
-          \[Link to Weekly
-          Menu]\(http://www.goodnesstogocatering.com/weekly-menu.html) 
+          [Link to Weekly
+          Menu](http://www.goodnesstogocatering.com/weekly-menu.html)
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
