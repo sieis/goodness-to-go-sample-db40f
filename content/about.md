@@ -48,7 +48,7 @@ sections:
         media_width: fifty
   - type: grid_section
     template: grid_section
-    title: Our Officess
+    title: Our Locations
     grid_items:
       - type: grid_item
         template: grid_item
