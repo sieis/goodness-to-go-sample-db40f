@@ -42,9 +42,10 @@ sections:
         template: grid_item
         title: Phone Orders
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          Rocky Hill: 865-253-7099
+
+          Choto Markets: 865-671-1315
         content_align: center
         actions:
           - type: action
