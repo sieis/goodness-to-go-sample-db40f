@@ -330,35 +330,6 @@ sections:
     background_image_size: ''
     background_image_position: ''
     background_image_repeat: ''
-  - type: cta_section
-    template: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - type: action
-        template: action
-        label: Button
-        url: /pricing
-        style: primary
-        has_icon: false
-        icon: ''
-        icon_position: ''
-        new_window: false
-        no_follow: false
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    actions_width: ''
-    has_border: false
-    background_image: ''
-    background_image_size: ''
-    background_image_position: ''
-    background_image_repeat: ''
 layout: advanced
 excerpt: ''
 ---
