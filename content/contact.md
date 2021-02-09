@@ -6,7 +6,7 @@ sections:
     title: Get in touch
     subtitle: >-
       Have a question? Send us a note using the form below and we will be in
-      touch soon.
+      touch soon. Call us at either location to order ahead!
     align: center
     padding_top: small
     padding_bottom: small
