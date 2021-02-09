@@ -54,7 +54,7 @@ sections:
         template: grid_item
         title: Some City
         content: >
-          7664 S. Northshort Drive\<br> Knoxville, TN 37922 
+          7664 S. Northshore Drive, Knoxville, TN 37922 
           [1-](tel:+12345567890)865-253-7099 goodnesstogocatering@gmail.com
         content_align: left
         actions:
