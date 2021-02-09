@@ -282,7 +282,7 @@ sections:
         has_icon: false
         icon: ''
         icon_position: ''
-        new_window: false
+        new_window: true
         no_follow: false
     actions_position: right
     actions_width: fourty
