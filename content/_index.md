@@ -36,7 +36,7 @@ sections:
   padding_top: large
   padding_bottom: large
   background_color: primary
-  image: "/images/People celebrating Thanksgiving-bro.svg"
+  image: "/images/People celebrating Thanksgiving-bro2.svg"
   video_embed_html: ''
   has_border: false
   background_image: ''
