@@ -68,7 +68,7 @@ params:
         icon_position: ''
         new_window: true
         no_follow: false
-    has_anncmnt: true
+    has_anncmnt: false
     anncmnt_content: >-
       Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
       More](/pricing/)**
